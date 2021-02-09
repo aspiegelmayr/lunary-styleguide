@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lunary/static/css/main.ef3b71c7.chunk.css",
-    "main.js": "/lunary/static/js/main.a3247105.chunk.js",
-    "main.js.map": "/lunary/static/js/main.a3247105.chunk.js.map",
-    "runtime-main.js": "/lunary/static/js/runtime-main.41b92603.js",
-    "runtime-main.js.map": "/lunary/static/js/runtime-main.41b92603.js.map",
-    "static/js/2.a92a7106.chunk.js": "/lunary/static/js/2.a92a7106.chunk.js",
-    "static/js/2.a92a7106.chunk.js.map": "/lunary/static/js/2.a92a7106.chunk.js.map",
-    "static/js/3.cd6b4d2c.chunk.js": "/lunary/static/js/3.cd6b4d2c.chunk.js",
-    "static/js/3.cd6b4d2c.chunk.js.map": "/lunary/static/js/3.cd6b4d2c.chunk.js.map",
-    "index.html": "/lunary/index.html",
-    "static/css/main.ef3b71c7.chunk.css.map": "/lunary/static/css/main.ef3b71c7.chunk.css.map",
-    "static/js/2.a92a7106.chunk.js.LICENSE.txt": "/lunary/static/js/2.a92a7106.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/lunary/static/media/sketchgothicschool.e8c8b9f3.ttf"
+    "main.css": "/lunary-styleguide/static/css/main.cc8512ae.chunk.css",
+    "main.js": "/lunary-styleguide/static/js/main.a3247105.chunk.js",
+    "main.js.map": "/lunary-styleguide/static/js/main.a3247105.chunk.js.map",
+    "runtime-main.js": "/lunary-styleguide/static/js/runtime-main.91f72a94.js",
+    "runtime-main.js.map": "/lunary-styleguide/static/js/runtime-main.91f72a94.js.map",
+    "static/js/2.a92a7106.chunk.js": "/lunary-styleguide/static/js/2.a92a7106.chunk.js",
+    "static/js/2.a92a7106.chunk.js.map": "/lunary-styleguide/static/js/2.a92a7106.chunk.js.map",
+    "static/js/3.cd6b4d2c.chunk.js": "/lunary-styleguide/static/js/3.cd6b4d2c.chunk.js",
+    "static/js/3.cd6b4d2c.chunk.js.map": "/lunary-styleguide/static/js/3.cd6b4d2c.chunk.js.map",
+    "index.html": "/lunary-styleguide/index.html",
+    "static/css/main.cc8512ae.chunk.css.map": "/lunary-styleguide/static/css/main.cc8512ae.chunk.css.map",
+    "static/js/2.a92a7106.chunk.js.LICENSE.txt": "/lunary-styleguide/static/js/2.a92a7106.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/lunary-styleguide/static/media/sketchgothicschool.e8c8b9f3.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.41b92603.js",
+    "static/js/runtime-main.91f72a94.js",
     "static/js/2.a92a7106.chunk.js",
-    "static/css/main.ef3b71c7.chunk.css",
+    "static/css/main.cc8512ae.chunk.css",
     "static/js/main.a3247105.chunk.js"
   ]
 }
